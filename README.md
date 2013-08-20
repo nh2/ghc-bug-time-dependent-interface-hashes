@@ -17,7 +17,7 @@ It does not change if it is compiled twice within the same second.
 Example
 -------
 
-The output of `./run-multiple-times.sh`:
+To **reproduce**, run `./run-multiple-times.sh`:
 
 ```
 --- before	2013-08-20 11:32:28.116263794 +0900                        
