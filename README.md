@@ -3,6 +3,8 @@ ghc-bug-time-dependent-interface-hashes
 
 Test case for a probable GHC problem where different interfaces hashes are created on every compilation with identical inputs.
 
+GHC bug is at http://ghc.haskell.org/trac/ghc/ticket/8144.
+
 
 Problem
 -------
